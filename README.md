@@ -93,4 +93,4 @@ You can then safely do something like:
 
 
   [1]: https://github.com/avdi/naught
-  [2]: https://github.com/drapergem/draper
+  [2]: https://github.com/drapergem/draper 
